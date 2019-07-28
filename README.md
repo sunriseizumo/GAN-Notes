@@ -1,5 +1,7 @@
 # GAN-Notes
 > noted explanations for GANs (이 문서는 한국어로 작성되었습니다.)
+>
+> Github page 에서는 view 에 한계가 있으므로, `.ipynb` 파일을 다운로드하여 `jupyter notebook` 을 통해 보시는것을 권장합니다.
 
 ---
 

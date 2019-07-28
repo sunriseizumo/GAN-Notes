@@ -55,7 +55,7 @@
 
 ### Note 4-1 : Cycle GAN with Tensorflow (code)
 
-- Cycle GAN 을 이용하여 말 $\rightarrow$ 조랑말 모델 만들기
+- Cycle GAN 을 이용하여 말 to 조랑말 모델 만들기
 
 > (ref : https://github.com/hardikbansal/CycleGAN)
 

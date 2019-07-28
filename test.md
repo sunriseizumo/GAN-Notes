@@ -1,1 +1,1 @@
-![test image](./images_cycle/encoder_decoder.png)
+![test image](./images/0_generative_model_1.png)
